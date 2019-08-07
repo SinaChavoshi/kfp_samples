@@ -1,8 +1,3 @@
-"""TODO(chavoshi): DO NOT SUBMIT without one-line documentation for component_build.
-
-TODO(chavoshi): DO NOT SUBMIT without a detailed description of component_build.
-"""
-
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import google_type_annotations
